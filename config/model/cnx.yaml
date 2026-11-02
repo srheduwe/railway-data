@@ -1,0 +1,7 @@
+# CNX classifier configuration
+name: 'cnx'
+pretrained: True
+freeze_backbone: False
+learning_rate: 2e-5
+target_width: 224
+target_height: 224

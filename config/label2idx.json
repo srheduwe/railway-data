@@ -1,0 +1,10 @@
+{
+  "class_to_idx": {
+    "Branch": 0,
+    "IronRod": 1,
+    "Barrel": 2,
+    "Boulder": 3,
+    "Jerrycan": 4,
+    "Person": 5
+  }
+}

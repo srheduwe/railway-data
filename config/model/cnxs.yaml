@@ -1,0 +1,6 @@
+# CNXs classifier configuration
+name: 'cnxs'
+pretrained: True
+freeze_backbone: False
+target_width: 224
+target_height: 224
