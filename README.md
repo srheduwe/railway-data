@@ -39,8 +39,6 @@ python src/adversarial_training.py
     │   └── Barrel                  <- Images of the class Barrel
     │   └── etc..                   <- Other classes
     │
-    ├── dataset_original.zip        <- The original images of the UAV-RSOD dataset, partitioned and in PyTorch Dataset format. See License details below.
-    │
     ├── environment.yml             <- The requirements file for reproducing the analysis environment.
     │
     ├── classes.xlsx               <- Classes of the UAV-RSOD dataset
